@@ -16,4 +16,3 @@ Test slack workspace - [GettCoin](https://gettcoin.slack.com).
 It was placed to `Ropsten` test network, you can check it here: 
 [0xaceda1c7b588be2c837c7bfb654633a663c4a472](https://ropsten.etherscan.io/address/0xaceda1c7b588be2c837c7bfb654633a663c4a472)
 
-

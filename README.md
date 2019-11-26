@@ -9,7 +9,7 @@ Transfer coins within your company with ease, buy merchandise in the internal ma
 This project represents GettCoin ERC20 smart contract. 
 
 ## Slack
-Test slack workspace - [GettCoin](gettcoin.slack.com). 
+Test slack workspace - [GettCoin](https://gettcoin.slack.com). 
 * [production](https://gettcoin.slack.com/apps/AQPR1A66M-gettcoin) app
 
 ## Deployment 

@@ -1,14 +1,14 @@
 [![CircleCI](https://circleci.com/gh/SphereSoftware/SphereCoin/tree/master.svg?style=svg&circle-token=6b86b16ac67ac8362e96f17838aa4d093669be87)](https://circleci.com/gh/SphereSoftware/SphereCoin)
 
-## GettCoin Blockchain (Ethereum)
-
-This project represents GettCoin ERC20 smart contract. 
-
-## SphereCoin
+# GTT
 
 ![SphereCoin](https://gettcoin.sphereinc.com/static/media/GettCoin_Mark.dccdd1b8.svg)
 
 Transfer coins within your company with ease, buy merchandise in the internal marketplace and motivate colleges for PRs
+
+## GettCoin Blockchain (Ethereum)
+
+This project represents GettCoin ERC20 smart contract. 
 
 ## Slack
 

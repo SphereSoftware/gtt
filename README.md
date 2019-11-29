@@ -2,7 +2,7 @@
 
 ![SphereCoin](https://gettcoin.sphereinc.com/static/media/GettCoin_Mark.dccdd1b8.svg)
 
-# GTT
+# GTT 😄 
 Transfer coins within your company with ease, buy merchandise in the internal marketplace and motivate colleges for PRs
 
 ## GettCoin Blockchain (Ethereum)
